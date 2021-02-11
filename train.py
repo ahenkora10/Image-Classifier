@@ -11,8 +11,6 @@ from collections import OrderedDict
 import matplotlib.pyplot as plt
 import json
 from PIL import Image
-import futility
-import fmodel
 
 parser = argparse.ArgumentParser(
     description = 'Parser for train.py'
